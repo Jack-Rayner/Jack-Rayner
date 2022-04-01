@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Jack-Rayner/Jack-Rayner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist** and **Data Science Fellow at General Assembly.**
 
-Here are some ideas to get you started:
+---
+###  💾 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Predicting California Wine Production](>link_here<): A **Multi linear regression** model for predicting the degree climate change may affect California wine production.
+
+
+- [Subreddit Classifier](>link_here<): A **logisitc regression** model for classifying reddit post as coming from either r/AskScience or r/UnpopularOpinion.
+
+---
+### 💡 Skills
+**Languages:** Python, SQL, HTML, CSS, Scheme
+
+**Libraries/Tools:** Pandas, NumPy, Scikit Learn, Matplotlib, Seaborn, Pytorch, Keras, TensorFlow, Jupyter Labs, Git/Github
+
+---
+### 📫 Contact me:
+[Linkedin](https://www.linkedin.com/in/raynerjack/)
