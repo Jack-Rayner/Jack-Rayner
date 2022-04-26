@@ -7,7 +7,7 @@
 - [Predicting California Wine Production](>link_here<): A **Multi linear regression** model for predicting the degree climate change may affect California wine production.
 
 
-- [Subreddit Classifier](>link_here<): A **logisitc regression** model for classifying reddit post as coming from either r/AskScience or r/UnpopularOpinion.
+- [Subreddit Classifier](https://github.com/Jack-Rayner/reddit-classification): A **logisitc regression** model for classifying reddit post as coming from either r/AskScience or r/UnpopularOpinion.
 
 ---
 ### 💡&nbsp; Skills
