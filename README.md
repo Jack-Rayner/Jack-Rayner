@@ -4,6 +4,10 @@
 ---
 ###  💾 &nbsp; Projects
 
+- [Clustering opinions on the war in Afghanistan](https://github.com/Jack-Rayner/clustering-opinions-on-the-war-in-afghanistan-): An **LDA Topic Model** examining what topics or opinions were important during the war, and how did sentiments on such topics change as the conflict continued?
+
+
+
 - [Predicting California Wine Production](https://github.com/Jack-Rayner/Impact-of-Climate-Change-on-Wine-Production-in-California): A **Multi linear regression** model for predicting the degree climate change may affect California wine production.
 
 
