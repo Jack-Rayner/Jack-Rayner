@@ -1,5 +1,5 @@
 
-## **Data Scientist** and **Data Science Fellow at General Assembly.**
+## **Data Analyst with Datachat** 
 
 ---
 ###  💾 &nbsp; Projects
